@@ -3,7 +3,7 @@ from jobspy import scrape_jobs
 import pandas as pd
 
 queries = [
-    # 💬 Customer-Facing Roles
+
     "Sales / Business Development",
     "Marketing / Brand Management",
     "Retail / Store Management",
